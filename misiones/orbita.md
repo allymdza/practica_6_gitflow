@@ -11,9 +11,10 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Checar que todo el equipo este listo para aterrizar.
+- Paso 2: Que el lugar de aterrizaje este en condiciones para aterrizar.
+- Paso 3: Seguir protocolos de aterrizaje.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
+Que se desvie y se estrelle contra el punto de aterrizaje
