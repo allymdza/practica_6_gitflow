@@ -11,9 +11,10 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Verificar que tenga el suficiente combustible.
+- Paso 2: Verificar que los circuitos electricos funcionen.
+- Paso 3: Verificar que los cinturones abrochen con seguridad.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
+que se caiga :(
